@@ -79,6 +79,17 @@ I'm a **GIS Analyst** with a Master's in **Geo-Data Sciences** from Purdue Unive
 
 ## 🎓 Education
 
+<div align="center">
+
+<picture>
+  <!-- Dark mode: white/gold reverse logo -->
+  <source media="(prefers-color-scheme: dark)" srcset="PU-H-Full-Rev-RGB.svg">
+  <!-- Light mode: swap in the standard black/gold version here when available -->
+  <img src="PU-H-Full-Rev-RGB.svg" width="360" alt="Purdue University">
+</picture>
+
+</div>
+
 - **M.S. in Geo-Data Sciences** — Purdue University *(2024–2025)*
 - **B.S. in Earth Sciences** — Purdue University *(2020–2024)*
 - **GIS Certificate** — Purdue University *(2025)*
