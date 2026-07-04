@@ -79,20 +79,32 @@ I'm a **GIS Analyst** with a Master's in **Geo-Data Sciences** from Purdue Unive
 
 ## 🎓 Education
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="300">
 
 <picture>
-  <!-- Dark mode: white/gold reverse logo -->
   <source media="(prefers-color-scheme: dark)" srcset="PU-H-Full-Rev-RGB.svg">
-  <!-- Light mode: swap in the standard black/gold version here when available -->
-  <img src="PU-H-Full-Rev-RGB.svg" width="360" alt="Purdue University">
+  <img src="PU-H-Full-Rev-RGB.svg" width="260" alt="Purdue University">
 </picture>
 
-</div>
+<sub>West Lafayette, Indiana</sub>
 
-- **M.S. in Geo-Data Sciences** — Purdue University *(2024–2025)*
-- **B.S. in Earth Sciences** — Purdue University *(2020–2024)*
-- **GIS Certificate** — Purdue University *(2025)*
+</td>
+<td>
+
+**M.S. in Geo-Data Sciences** &nbsp;·&nbsp; `2024 – 2025`
+<br><sub>Capstone: Global Tropical Cyclone Intensity Trends</sub>
+
+**B.S. in Earth Sciences** &nbsp;·&nbsp; `2020 – 2024`
+<br><sub>Undergraduate Seismic Research · AGU Fall Meeting 2024 co-author</sub>
+
+**GIS Certificate** &nbsp;·&nbsp; `2025`
+<br><sub>Credential ID: 25I2-0NIR-AOYY</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
