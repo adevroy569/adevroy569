@@ -66,9 +66,10 @@ I'm a **GIS Analyst** with a Master's in **Geo-Data Sciences** from Purdue Unive
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adevroy569&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adevroy569&theme=github_dark" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adevroy569&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adevroy569&theme=github_dark" alt="Top Languages by Repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adevroy569&theme=github_dark" alt="Top Languages by Commit" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=adevroy569&theme=github-dark-blue&hide_border=true)
 
