@@ -112,6 +112,4 @@ I'm a **GIS Analyst** with a Master's in **Geo-Data Sciences** from Purdue Unive
 
 💬 *Open to opportunities in GIS analysis, geospatial data science, and spatial research*
 
-![Profile Views](https://komarev.com/ghpvc/?username=adevroy569&color=58A6FF&style=flat-square)
-
 </div>
